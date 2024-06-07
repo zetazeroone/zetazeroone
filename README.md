@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-⌨️I'm currently studying systems engineering at National Technological University, in Buenos Aires.<br>💻Learning on the front end development career path on scrimba.com<br>📗Reading a novel about zombies<br>🎞️Working on a documentary<br><br>
+⌨️I'm currently studying systems engineering at National Technological University, in Buenos Aires.<br>💻Learning the front end development career path on scrimba.com<br>📗Reading a novel about zombies<br>🎞️Working on a documentary<br><br>
 
 
 ## 🌐 Socials:
