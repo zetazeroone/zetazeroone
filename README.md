@@ -1,11 +1,14 @@
 ## Hi there 👋
 
 # 💫 About Me:
-⌨️I'm currently studying Industrial Design at UBA, in Buenos Aires.<br>💻Learning the front end development career path on scrimba.com<br>📗Reading a novel about zombies<br>🎞️Working on a documentary<br><br>
+⌨️I'm currently studying Industrial Design at UBA, in Buenos Aires.<br>
+💻Learning the front end development career path on scrimba.com<br>
+📗Reading a novel about zombies<br>
+🎞️Working on a documentary<br><br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/agustin-federico/?locale=en_US)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](***)
 
 
 # 💻 Tech Stack:
